@@ -1,0 +1,15 @@
+{
+  "name": "generator-svelte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yanick Champoux <yanick@babyl.ca> (http://techblog.babyl.ca/)",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^5.4.2"
+  }
+}
